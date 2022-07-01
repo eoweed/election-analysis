@@ -18,16 +18,16 @@
 #### Total Votes Cast = 369,711
 
 #### Votes Based on County
-##### * Votes Cast in Arapahoe = 24,801 (6.7 %)
-##### * Votes Cast in Denver = 306,055 (82.8 %)
-##### * Votes Cast in Jefferson = 38,855 (10.5 %)
-##### * County with Largest Number of Votes = Denver
+##### - Votes Cast in Arapahoe = 24,801 (6.7 %)
+##### - Votes Cast in Denver = 306,055 (82.8 %)
+##### - Votes Cast in Jefferson = 38,855 (10.5 %)
+##### - County with Largest Number of Votes = Denver
 
 #### Votes Based on Candidate
-##### * Charles Casper Stockham = 85,213 (23.0%)
-##### * Diana DeGette = 272,892 (73.8%)
-##### * Raymon Anthony Doane = 11,606 (3.1%)
-##### * Winner Based on Popular Vote = Diana DeGette
+##### - Charles Casper Stockham = 85,213 (23.0%)
+##### - Diana DeGette = 272,892 (73.8%)
+##### - Raymon Anthony Doane = 11,606 (3.1%)
+##### - Winner Based on Popular Vote = Diana DeGette
 #
 #
 ### Election Audit Summary
