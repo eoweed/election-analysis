@@ -38,7 +38,7 @@
 <img src="https://github.com/eoweed/election-analysis/blob/main/analysis/image_column_index.png" width=50% height=50%>
 <img src="https://github.com/eoweed/election-analysis/blob/main/analysis/image_file_path.png" width=50% height=50%>
 
-#### However, the python script could also be modified to analyze data from other elections with different information. For example, if we wanted to analyze data from the presidential election in the United States, then the candidate options would need to be the presidential candidate options. In addition, the python script could be easily changed to analyze votes by state instead of county, or analyze votes by political party as long as that information is provided in the data set. The path to the file containing the data set would need to be updated, and the index of the column that will be analyzed needs to match as well, and lastly the variable names might need to be altered in the scripts for clarity.
+#### However, the python script could also be modified to analyze data from other elections with different information. For example, if we wanted to analyze data from the presidential election in the United States, then the candidate options would be the presidential candidate options. In addition, the python script could be easily changed to analyze votes by state instead of votes by county, or analyze votes by political party as long as that information is provided in the data set. The path to the file containing the data set would need to be updated, and the index of the column that will be analyzed needs to match as well. Lastly the variable names might need to be altered in the script for clarity.
 
 #
 #
