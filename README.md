@@ -2,15 +2,16 @@
 ## Analyze election results provided by the Colorado Board of Elections. 
 #
 #
-### Overview of Election Audit
-#### 1. Calculate total number of votes cast in the election
-#### 2. Identify all candidates who recieved votes
-#### 3. Calculate total number of votes per candidate
-#### 4. Calculate percent votes won per candidate
-#### 5. Find winner of election based on popular vote
-#### 6. Calculate voter turnout per each county
-#### 7. Calculate percent of voters from each county
-#### 8. Find county with the highest voter turnout
+### Overview of Election Audit:
+#### The purpose of this audit is to complete the following:
+##### 1. Calculate total number of votes cast in the election
+##### 2. Identify all candidates who recieved votes
+##### 3. Calculate total number of votes per candidate
+##### 4. Calculate percent votes won per candidate
+##### 5. Find winner of election based on popular vote
+##### 6. Calculate voter turnout per each county
+##### 7. Calculate percent of voters from each county
+##### 8. Find county with the highest voter turnout
 #
 #
 ### Election Audit Results
@@ -32,7 +33,10 @@
 #
 ### Election Audit Summary
 
-#### NEED TO WRITE SUMMARY STATEMENT
+how can this be used for any election
+2 examples of how this script can be modified for other elections
+
+#### 
 
 #
 #
