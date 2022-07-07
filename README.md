@@ -33,12 +33,12 @@
 #
 ### Election Audit Summary
 
-#### The data provided by the Colorado Board of Elections was analyzed using a python script to show election results by county and by candidate. This python script could also be used for any other election as long as the data set has entries for candidates and counties as well. 
+#### The data provided by the Colorado Board of Elections was analyzed using a python script to show election results by county and by candidate. This python script could also be used for any other election as long as the data set has entries for candidates and counties. The data layout should have candidates and counties in the same column index as used in the script, and it should be saved in a csv file.
 
-#### However, the python script could also be modified to analyze data sets from other elections that have different parameters. For example, if we wanted to analyze data from the presidential election in the U.S. then the candidate options would need to be the presidential candidates. In addition, the python script could be changed to analyze votes by state instead of county, or analyze votes based on political party as long as that information is provided in the data set.
+#### ![column_index](election-analysis\analysis\image_column_index.png)
+#### ![file_path](election-analysis\analysis\image_file_path.png)
 
-
-
+#### However, the python script could also be modified to analyze data sets from other elections with different information. For example, if we wanted to analyze data from the presidential election in the U.S.A. then the candidate options would need to be the presidential candidate options. In addition, the python script could be easily changed to analyze votes by state instead of county, or analyze votes by political party as long as that information is provided in the data set. The path to the file containing the data set would need to be updated, and the index of the column that will be analyzed needs to match as well, and lastly the variable names might need to be altered.
 
 #
 #
